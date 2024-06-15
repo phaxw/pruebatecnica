@@ -1,4 +1,4 @@
-## Description
+## Descripcion 
 
 Prueba tecnica elaborada para glounit.
 
@@ -10,7 +10,7 @@ Documento guia:
 $ npm install
 ```
 
-## Running the app
+## Ejecutando la aplicacion
 
 ```bash
 # development
